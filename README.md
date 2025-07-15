@@ -1,4 +1,4 @@
-# GodeusAI
+# GodeusAI - Conversations with the infinite, locally hosted.
 
 GodeusAI is a spiritual assistant chatbot powered by a fine-tuned Mistral-7B language model with LoRA adapters. It provides answers to spiritual and philosophical questions, and can be run locally for private, offline use.
 
@@ -6,7 +6,7 @@ GodeusAI is a spiritual assistant chatbot powered by a fine-tuned Mistral-7B lan
 
 ## Features
 
-- 🧘 Chatbot interface for spiritual Q&A
+- Chatbot interface for spiritual Q&A
 - Fine-tuned on custom spiritual/philosophical data
 - LoRA adapter for efficient model adaptation
 - Utilities for context-based question answering
